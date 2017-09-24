@@ -28,7 +28,7 @@ Setup
     - Ubuntu/Debian GNU/Linux::
 
         sudo apt-get update
-        sudo apt-get install python3 python3.4-venv
+        sudo apt-get install python3 python3-venv
 
     - `MacOSX, Windows, Other <https://www.python.org/downloads/>`_
 
