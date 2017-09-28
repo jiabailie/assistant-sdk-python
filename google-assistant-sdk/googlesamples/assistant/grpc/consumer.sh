@@ -1,8 +1,9 @@
 #!/bin/sh
 STOPS=1
-INPUT=/var/www/html/iwave/google/
-FINPUT=/var/www/html/iwave/google/*
-OUTPUT=/var/www/html/owave/google/
+DIR_NAME=e0924
+INPUT=/home/mstts/Documents/samples/batch/google/$DIR_NAME/
+FINPUT=/home/mstts/Documents/samples/batch/google/$DIR_NAME/*
+OUTPUT=/home/mstts/Documents/samples/batch/google/o$DIR_NAME/
 while true
 do
     if [ "$(ls -A $FINPUT)" ]
@@ -26,18 +27,19 @@ do
             ofile=$OUTPUT$fname
             #echo $ofile
 
-            python -m pushtotalk -i $mfile -o $oifile
+            # python -m pushtotalk -i $mfile -o $oifile
+            python -m pushtotalk -i $mfile -o $ofile
 
-            sox $oifile -r 44100 $olfile
-            sox $oifile -r 44100 $orfile
-            sox -M $olfile $orfile $ofile
-
-            #cat $f
+            # sox $oifile -r 44100 $olfile
+            # sox $oifile -r 44100 $orfile
+            # sox -M $olfile $orfile $ofile
+            #
+            # #cat $f
             rm $file
             rm $mfile
-            rm $oifile
-            rm $olfile
-            rm $orfile
+            # rm $oifile
+            # rm $olfile
+            # rm $orfile
         done
     fi
 done

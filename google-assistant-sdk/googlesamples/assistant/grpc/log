@@ -1,0 +1,247 @@
+1.wav
+INFO:root:Connecting to embeddedassistant.googleapis.com
+INFO:root:Recording audio request.
+INFO:root:End of audio request detected
+INFO:root:Transcript of user request: "can you define stressful".
+INFO:root:Playing assistant response.
+INFO:root:Finished playing assistant response.
+10.wav
+INFO:root:Connecting to embeddedassistant.googleapis.com
+INFO:root:Recording audio request.
+INFO:root:End of audio request detected
+INFO:root:Transcript of user request: "how old are you".
+INFO:root:Playing assistant response.
+INFO:root:Finished playing assistant response.
+11.wav
+INFO:root:Connecting to embeddedassistant.googleapis.com
+INFO:root:Recording audio request.
+INFO:root:End of audio request detected
+INFO:root:Transcript of user request: "add bananas to shopping list".
+INFO:root:Playing assistant response.
+INFO:root:Finished playing assistant response.
+12.wav
+INFO:root:Connecting to embeddedassistant.googleapis.com
+INFO:root:Recording audio request.
+INFO:root:End of audio request detected
+INFO:root:Transcript of user request: "add bread to grocery list".
+INFO:root:Playing assistant response.
+INFO:root:Finished playing assistant response.
+13.wav
+INFO:root:Connecting to embeddedassistant.googleapis.com
+INFO:root:Recording audio request.
+INFO:root:End of audio request detected
+INFO:root:Transcript of user request: "add cashews to my shopping list".
+INFO:root:Playing assistant response.
+INFO:root:Finished playing assistant response.
+14.wav
+INFO:root:Connecting to embeddedassistant.googleapis.com
+INFO:root:Recording audio request.
+INFO:root:End of audio request detected
+INFO:root:Transcript of user request: "add coffee to my shopping list".
+INFO:root:Playing assistant response.
+INFO:root:Finished playing assistant response.
+15.wav
+INFO:root:Connecting to embeddedassistant.googleapis.com
+INFO:root:Recording audio request.
+INFO:root:End of audio request detected
+INFO:root:Transcript of user request: "add garlic to my shopping list".
+INFO:root:Playing assistant response.
+INFO:root:Finished playing assistant response.
+16.wav
+INFO:root:Connecting to embeddedassistant.googleapis.com
+INFO:root:Recording audio request.
+INFO:root:End of audio request detected
+INFO:root:Transcript of user request: "can you give me a wreck of Italian recipe".
+INFO:root:Playing assistant response.
+INFO:root:Finished playing assistant response.
+17.wav
+INFO:root:Connecting to embeddedassistant.googleapis.com
+INFO:root:Recording audio request.
+INFO:root:End of audio request detected
+INFO:root:Transcript of user request: "can you record rest".
+INFO:root:Playing assistant response.
+INFO:root:Finished playing assistant response.
+18.wav
+INFO:root:Connecting to embeddedassistant.googleapis.com
+INFO:root:Recording audio request.
+INFO:root:End of audio request detected
+INFO:root:Transcript of user request: "can you tell me where the highest Read Seafood rest is".
+INFO:root:Playing assistant response.
+INFO:root:Finished playing assistant response.
+19.wav
+INFO:root:Connecting to embeddedassistant.googleapis.com
+INFO:root:Recording audio request.
+INFO:root:End of audio request detected
+INFO:root:Transcript of user request: "find me a sushi rest".
+INFO:root:Playing assistant response.
+INFO:root:Finished playing assistant response.
+2.wav
+INFO:root:Connecting to embeddedassistant.googleapis.com
+INFO:root:Recording audio request.
+INFO:root:End of audio request detected
+INFO:root:Transcript of user request: "can you tell me how many oz in a pound".
+INFO:root:Playing assistant response.
+INFO:root:Finished playing assistant response.
+20.wav
+INFO:root:Connecting to embeddedassistant.googleapis.com
+INFO:root:Recording audio request.
+INFO:root:End of audio request detected
+INFO:root:Transcript of user request: "how far away is the nearest supermarket".
+INFO:root:Playing assistant response.
+INFO:root:Finished playing assistant response.
+21.wav
+INFO:root:Connecting to embeddedassistant.googleapis.com
+INFO:root:Recording audio request.
+INFO:root:End of audio request detected
+INFO:root:Transcript of user request: "can you set an alarm for 5 a.m.".
+INFO:root:Playing assistant response.
+INFO:root:Finished playing assistant response.
+22.wav
+INFO:root:Connecting to embeddedassistant.googleapis.com
+INFO:root:Recording audio request.
+INFO:root:End of audio request detected
+INFO:root:Transcript of user request: "can you set an alarm for 6 a.m.".
+INFO:root:Playing assistant response.
+INFO:root:Finished playing assistant response.
+23.wav
+INFO:root:Connecting to embeddedassistant.googleapis.com
+INFO:root:Recording audio request.
+INFO:root:End of audio request detected
+INFO:root:Transcript of user request: "can you set an alarm for 7 a.m.".
+INFO:root:Playing assistant response.
+INFO:root:Finished playing assistant response.
+24.wav
+INFO:root:Connecting to embeddedassistant.googleapis.com
+INFO:root:Recording audio request.
+INFO:root:End of audio request detected
+INFO:root:Transcript of user request: "can you set the alarm for me to 8:30 a.m.".
+INFO:root:Playing assistant response.
+INFO:root:Finished playing assistant response.
+25.wav
+INFO:root:Connecting to embeddedassistant.googleapis.com
+INFO:root:Recording audio request.
+INFO:root:End of audio request detected
+INFO:root:Transcript of user request: "could you please set a wake up alarm for 7:20 a.m.".
+INFO:root:Playing assistant response.
+INFO:root:Finished playing assistant response.
+26.wav
+INFO:root:Connecting to embeddedassistant.googleapis.com
+INFO:root:Recording audio request.
+INFO:root:End of audio request detected
+INFO:root:Transcript of user request: "can you set a one minute timer for me".
+INFO:root:Playing assistant response.
+INFO:root:Finished playing assistant response.
+27.wav
+INFO:root:Connecting to embeddedassistant.googleapis.com
+INFO:root:Recording audio request.
+INFO:root:End of audio request detected
+INFO:root:Transcript of user request: "can you set a 65 set timer for me".
+INFO:root:Playing assistant response.
+INFO:root:Expecting follow-on query from user.
+INFO:root:Finished playing assistant response.
+28.wav
+INFO:root:Connecting to embeddedassistant.googleapis.com
+INFO:root:Recording audio request.
+INFO:root:End of audio request detected
+INFO:root:Transcript of user request: "can you set a timer for 4 minutes".
+INFO:root:Playing assistant response.
+INFO:root:Finished playing assistant response.
+29.wav
+INFO:root:Connecting to embeddedassistant.googleapis.com
+INFO:root:Recording audio request.
+INFO:root:End of audio request detected
+INFO:root:Transcript of user request: "can you set a timer for 5 minutes".
+INFO:root:Playing assistant response.
+INFO:root:Finished playing assistant response.
+3.wav
+INFO:root:Connecting to embeddedassistant.googleapis.com
+INFO:root:Recording audio request.
+INFO:root:End of audio request detected
+INFO:root:Transcript of user request: "convert $10 to pounds".
+INFO:root:Playing assistant response.
+INFO:root:Finished playing assistant response.
+30.wav
+INFO:root:Connecting to embeddedassistant.googleapis.com
+INFO:root:Recording audio request.
+INFO:root:End of audio request detected
+INFO:root:Transcript of user request: "set a 9 minute timer".
+INFO:root:Playing assistant response.
+INFO:root:Finished playing assistant response.
+31.wav
+INFO:root:Connecting to embeddedassistant.googleapis.com
+INFO:root:Recording audio request.
+INFO:root:End of audio request detected
+INFO:root:Transcript of user request: "tell me the weather in Ocean Shores tomorrow".
+INFO:root:Playing assistant response.
+INFO:root:Finished playing assistant response.
+32.wav
+INFO:root:Connecting to embeddedassistant.googleapis.com
+INFO:root:Recording audio request.
+INFO:root:End of audio request detected
+INFO:root:Transcript of user request: "what is today's forecast in New York".
+INFO:root:Playing assistant response.
+INFO:root:Finished playing assistant response.
+33.wav
+INFO:root:Connecting to embeddedassistant.googleapis.com
+INFO:root:Recording audio request.
+INFO:root:End of audio request detected
+INFO:root:Transcript of user request: "what's the weather in Redmond like".
+INFO:root:Playing assistant response.
+INFO:root:Finished playing assistant response.
+34.wav
+INFO:root:Connecting to embeddedassistant.googleapis.com
+INFO:root:Recording audio request.
+INFO:root:End of audio request detected
+INFO:root:Transcript of user request: "what's the weather today in Austin".
+INFO:root:Playing assistant response.
+INFO:root:Finished playing assistant response.
+35.wav
+INFO:root:Connecting to embeddedassistant.googleapis.com
+INFO:root:Recording audio request.
+INFO:root:End of audio request detected
+INFO:root:Transcript of user request: "what's the weather tomorrow in Houston".
+INFO:root:Playing assistant response.
+INFO:root:Finished playing assistant response.
+4.wav
+INFO:root:Connecting to embeddedassistant.googleapis.com
+INFO:root:Recording audio request.
+INFO:root:End of audio request detected
+INFO:root:Transcript of user request: "convert 5 USD to Candian dollar".
+INFO:root:Playing assistant response.
+INFO:root:Finished playing assistant response.
+5.wav
+INFO:root:Connecting to embeddedassistant.googleapis.com
+INFO:root:Recording audio request.
+INFO:root:End of audio request detected
+INFO:root:Transcript of user request: "Define artificial intelligence".
+INFO:root:Playing assistant response.
+INFO:root:Finished playing assistant response.
+6.wav
+INFO:root:Connecting to embeddedassistant.googleapis.com
+INFO:root:Recording audio request.
+INFO:root:End of audio request detected
+INFO:root:Transcript of user request: "can you tell me a joke".
+INFO:root:Playing assistant response.
+INFO:root:Finished playing assistant response.
+7.wav
+INFO:root:Connecting to embeddedassistant.googleapis.com
+INFO:root:Recording audio request.
+INFO:root:End of audio request detected
+INFO:root:Transcript of user request: "do you have a boyfriend".
+INFO:root:Playing assistant response.
+INFO:root:Finished playing assistant response.
+8.wav
+INFO:root:Connecting to embeddedassistant.googleapis.com
+INFO:root:Recording audio request.
+INFO:root:End of audio request detected
+INFO:root:Transcript of user request: "do you think I'm handsome".
+INFO:root:Playing assistant response.
+INFO:root:Finished playing assistant response.
+9.wav
+INFO:root:Connecting to embeddedassistant.googleapis.com
+INFO:root:Recording audio request.
+INFO:root:End of audio request detected
+INFO:root:Transcript of user request: "does God exist".
+INFO:root:Playing assistant response.
+INFO:root:Expecting follow-on query from user.
+INFO:root:Finished playing assistant response.
